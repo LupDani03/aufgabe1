@@ -1,5 +1,3 @@
-import java.util.Date;
-
 public class PazientenFallakten {
     int id;
     String patient;
